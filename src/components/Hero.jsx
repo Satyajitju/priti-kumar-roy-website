@@ -23,11 +23,11 @@ function Hero() {
           <p
   style={{
     marginTop: "10px",
-    color: "#2563eb",
-    fontWeight: "600"
+    color: "red",
+    fontWeight: "bold"
   }}
 >
-  Last updated: June 2026.
+  DEPLOYMENT TEST 14 JUNE 2026
 </p>
   
           <p
