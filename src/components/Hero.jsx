@@ -27,7 +27,7 @@ function Hero() {
     fontWeight: "600"
   }}
 >
-  Last updated: June 2026
+  Last updated: June 2026.
 </p>
   
           <p
