@@ -20,6 +20,15 @@ function Hero() {
           >
             Prof. Priti Kumar Roy
           </h1>
+          <p
+  style={{
+    marginTop: "10px",
+    color: "#2563eb",
+    fontWeight: "600"
+  }}
+>
+  Last updated: June 2026
+</p>
   
           <p
             style={{
