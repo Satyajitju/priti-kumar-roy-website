@@ -20,7 +20,10 @@ function Home() {
 
                 <h1 className="hero-title">
                   Prof. Priti Kumar Roy
-                </h1>
+                </h1><h1>Professor Priti Kumar Roy</h1>
+<p style={{color:"#2563eb", fontWeight:"600"}}>
+  Last updated: June 2026
+</p>
 
                 <h3 className="hero-subtitle">
   Mathematical Biology • Disease Dynamics • Therapeutic Modelling
